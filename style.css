@@ -1,0 +1,21 @@
+.EDUCATION{
+  background-color: pink;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+.SKILLS{
+  background-color:  Dodgerblue;
+width: auto;
+height: auto;
+}
+.HOBBIES{
+  background-color: grey;
+  width: 100%;
+  height: 100%;
+  }
+  .LANGUAGES{
+    background-color: darkseagreen;
+    width: 100%;
+    height: 100%;
+  }
